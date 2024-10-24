@@ -1,0 +1,16 @@
+﻿  ExamenDIagnosticoo.cpp
+C:\Users\Alumno\source\repos\ExamenDIagnosticoo\ExamenDIagnosticoo\ExamenDIagnosticoo.cpp(85,5): error C2065: 'Zombie': identificador no declarado
+C:\Users\Alumno\source\repos\ExamenDIagnosticoo\ExamenDIagnosticoo\ExamenDIagnosticoo.cpp(85,12): error C2146: error de sintaxis: falta ';' delante del identificador 'zombie'
+C:\Users\Alumno\source\repos\ExamenDIagnosticoo\ExamenDIagnosticoo\ExamenDIagnosticoo.cpp(85,12): error C2065: 'zombie': identificador no declarado
+C:\Users\Alumno\source\repos\ExamenDIagnosticoo\ExamenDIagnosticoo\ExamenDIagnosticoo.cpp(85,21): error C3861: 'Zombie': no se encontró el identificador
+C:\Users\Alumno\source\repos\ExamenDIagnosticoo\ExamenDIagnosticoo\ExamenDIagnosticoo.cpp(86,5): error C2065: 'zombie': identificador no declarado
+C:\Users\Alumno\source\repos\ExamenDIagnosticoo\ExamenDIagnosticoo\ExamenDIagnosticoo.cpp(87,5): error C2065: 'Spider': identificador no declarado
+C:\Users\Alumno\source\repos\ExamenDIagnosticoo\ExamenDIagnosticoo\ExamenDIagnosticoo.cpp(87,12): error C2146: error de sintaxis: falta ';' delante del identificador 'spider'
+C:\Users\Alumno\source\repos\ExamenDIagnosticoo\ExamenDIagnosticoo\ExamenDIagnosticoo.cpp(87,12): error C2065: 'spider': identificador no declarado
+C:\Users\Alumno\source\repos\ExamenDIagnosticoo\ExamenDIagnosticoo\ExamenDIagnosticoo.cpp(87,21): error C3861: 'Spider': no se encontró el identificador
+C:\Users\Alumno\source\repos\ExamenDIagnosticoo\ExamenDIagnosticoo\ExamenDIagnosticoo.cpp(88,5): error C2065: 'spider': identificador no declarado
+C:\Users\Alumno\source\repos\ExamenDIagnosticoo\ExamenDIagnosticoo\ExamenDIagnosticoo.cpp(151,21): error C3646: 'playerVariables': especificador de invalidación desconocido
+C:\Users\Alumno\source\repos\ExamenDIagnosticoo\ExamenDIagnosticoo\ExamenDIagnosticoo.cpp(151,5): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\Alumno\source\repos\ExamenDIagnosticoo\ExamenDIagnosticoo\ExamenDIagnosticoo.cpp(153,29): error C2061: error de sintaxis: identificador 'PlayerVaribales'
+C:\Users\Alumno\source\repos\ExamenDIagnosticoo\ExamenDIagnosticoo\ExamenDIagnosticoo.cpp(154,9): error C2065: 'playerVariables': identificador no declarado
+C:\Users\Alumno\source\repos\ExamenDIagnosticoo\ExamenDIagnosticoo\ExamenDIagnosticoo.cpp(154,27): error C2065: 'playerVariabless': identificador no declarado
